@@ -3,6 +3,6 @@
 # Author: Jenny Formentera
 
 
-accountno = input("Please enter a 10 digit account number:")
-print("XXXXXX"+accountno[6:10])
+accountno = input("Please enter a 10 digit account number:") # prompt the user to input number
+print("XXXXXX"+accountno[6:10]) # the bracket [] will only reveal the last 4 four digits
 
