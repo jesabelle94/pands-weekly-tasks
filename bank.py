@@ -1,6 +1,6 @@
 # bank.py
 # storing currency figures
-# author: jenny formentera
+# author: Jenny Formentera
 
 
 # prompts the user to input floating-point numbers
