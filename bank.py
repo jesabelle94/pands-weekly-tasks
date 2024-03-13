@@ -1,4 +1,5 @@
-# bank.py
+# weekly task 2
+#bank.py
 # storing currency figures
 # author: Jenny Formentera
 
